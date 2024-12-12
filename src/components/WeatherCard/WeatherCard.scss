@@ -1,0 +1,26 @@
+.WeatherCard {
+    background-color: white;
+    width: 300px;
+    height: 500px;
+    border-bottom-left-radius: 80% 100px;
+    border-bottom-right-radius: 80% 100px;
+
+
+}
+
+.WeatherCard__mainSection {
+    height: 350px;
+    background-color: plum;
+    border-bottom-left-radius: 80% 100px;
+    border-bottom-right-radius: 80% 100px;
+    width: 100%;
+    overflow: hidden;
+    margin-bottom: -50px;
+    position: relative;
+
+}
+
+.Subsection {
+    height: 150px;
+    background-color: rgb(255, 234, 245);
+}

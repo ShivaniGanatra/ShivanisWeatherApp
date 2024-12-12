@@ -1,4 +1,4 @@
-import NavButton from "../NavButton/NavButton"
+import NavButton from "./../../components/NavButton/NavButton"
 import "./Nav.scss"
 
 const Nav = () => {

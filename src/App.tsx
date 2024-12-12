@@ -1,7 +1,8 @@
 
 import './App.css'
-import Dashboard from './Dashboard/Dashboard'
-import Nav from './Nav/Nav'
+import Dashboard from './containers/Dashboard/Dashboard'
+import Nav from './containers/Nav/Nav'
+
 
 function App() {
 
