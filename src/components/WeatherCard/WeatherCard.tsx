@@ -1,6 +1,9 @@
 import './WeatherCard.scss'
 
 const WeatherCard = () => {
+
+
+
   return (
     <div className='WeatherCard'>
         <section className='WeatherCard__mainSection'>
